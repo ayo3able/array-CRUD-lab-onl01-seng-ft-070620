@@ -22,8 +22,8 @@ def remove_element_from_start_of_array(sons = ["Ryan", "Evangle", "Increase", "C
   sons.shift
 end
 
-def retrieve_element_from_index(sons = ["Ryan", "Evangle", "Increase", "Champion"], .index[2])
-  []
+def retrieve_element_from_index(sons = ["Ryan", "Evangle", "Increase", "Champion"], )
+  
 end
 
 def retrieve_first_element_from_array(sons = ["Ryan", "Evangle", "Increase", "Champion"])

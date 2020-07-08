@@ -23,7 +23,7 @@ def remove_element_from_start_of_array(sons = ["Ryan", "Evangle", "Increase", "C
 end
 
 def retrieve_element_from_index(sons, index )
-  sons.index(0)
+  sons[index]
 end
 
 def retrieve_first_element_from_array(sons = ["Ryan", "Evangle", "Increase", "Champion"])

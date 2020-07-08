@@ -22,7 +22,7 @@ def remove_element_from_start_of_array(sons = ["Ryan", "Evangle", "Increase", "C
   sons.shift
 end
 
-def retrieve_element_from_index(sons = ["Ryan", "Evangle", "Increase", "Champion"], )
+def retrieve_element_from_index(sons = ["Ryan", "Evangle", "Increase", "Champion"], index[2])
   
 end
 
